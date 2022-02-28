@@ -1,0 +1,6 @@
+C:\Users\ac12\source\repos\FunctionsRecap\FunctionsRecap\bin\Debug\FunctionsRecap.exe.config
+C:\Users\ac12\source\repos\FunctionsRecap\FunctionsRecap\bin\Debug\FunctionsRecap.exe
+C:\Users\ac12\source\repos\FunctionsRecap\FunctionsRecap\bin\Debug\FunctionsRecap.pdb
+C:\Users\ac12\source\repos\FunctionsRecap\FunctionsRecap\obj\Debug\FunctionsRecap.csprojAssemblyReference.cache
+C:\Users\ac12\source\repos\FunctionsRecap\FunctionsRecap\obj\Debug\FunctionsRecap.exe
+C:\Users\ac12\source\repos\FunctionsRecap\FunctionsRecap\obj\Debug\FunctionsRecap.pdb
